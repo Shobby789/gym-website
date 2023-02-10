@@ -1,0 +1,76 @@
+.programs {
+  width: 100%;
+  height: 130vh;
+  background-color: white;
+  text-align: center;
+}
+
+.programs h3 {
+  text-transform: uppercase;
+  font-weight: 800;
+  letter-spacing: 1px;
+  margin-top: 80px;
+  text-align: center;
+}
+
+#p {
+  color: rgb(234, 84, 29);
+}
+
+.menuIcon {
+  margin-top: 20px;
+}
+
+.programs p {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.itemImg {
+  background-image: url("./images/dumbell.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  background-color: rgb(234, 84, 29);
+}
+
+.item {
+  width: 120px;
+  height: 120px;
+  display: inline-block;
+}
+
+.myClass {
+  width: 600px;
+  margin-left: 300px;
+}
+
+.features {
+  width: 100%;
+  height: 160px;
+  /* border: 2px solid black; */
+  margin-top: 40px;
+  /* margin-left: 200px; */
+}
+
+.d1 {
+  margin-top: 20px;
+  /* margin-right: 20px; */
+  height: 100px;
+  margin-left: 80px;
+}
+
+.myImg {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 40px;
+  background-color: rgb(234, 84, 29);
+}
+
+.b2 {
+  margin-right: 80px;
+}

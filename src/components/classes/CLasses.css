@@ -1,0 +1,95 @@
+.classes {
+  width: 100%;
+  height: 147vh;
+  background-color: white;
+  /* text-align: center; */
+}
+
+.classes h3 {
+  text-transform: uppercase;
+  font-weight: 800;
+  letter-spacing: 1px;
+  margin-top: 80px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.myMenuIcon {
+  display: block;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.classes p {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.sessions {
+  height: 100px;
+  margin-left: 260px;
+  /* display: inline-block; */
+  display: flex;
+  /* text-align: left; */
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.schedule {
+  float: right;
+  width: 900px;
+  height: 600px !important;
+  display: flex;
+  flex-direction: column;
+  height: 562px;
+}
+
+.leftBox {
+  width: 600px;
+  float: left;
+}
+
+.karsten {
+  width: 550px;
+  height: 300px;
+  border-radius: 10px;
+  float: left;
+}
+
+.schedule > h3 {
+  display: block;
+  width: 360px;
+  float: left;
+  margin-top: 25px;
+}
+
+.schedule > p {
+  width: 560px;
+  float: left;
+  text-align: start;
+  /* padding-top: 0px; */
+}
+
+.schedule > button {
+  background-color: rgb(234, 84, 29);
+  padding: 15px;
+  width: 180px;
+  margin-top: 0px;
+}
+
+.schedule button:hover {
+  background-color: rgb(234, 84, 29);
+  color: black;
+  transition: 0.3s;
+}
+
+.vewSchedule {
+  background-color: rgb(234, 84, 29);
+  color: white;
+  cursor: pointer;
+}
+
+/* .vewSchedule:hover {
+  color: black;
+} */
