@@ -15,7 +15,7 @@ export default function Form() {
         </div>
         <div className="mt-3">
           <textarea
-            name="msg"
+            name="message"
             id="message"
             cols="30"
             rows="6"
